@@ -1,0 +1,8 @@
+*.dll
+*.exe
+*.bat
+telescope*
+tsc
+luacov*
+test*
+
