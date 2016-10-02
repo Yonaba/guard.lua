@@ -2,7 +2,7 @@ guard.lua
 =====
 
 [![Build Status](https://travis-ci.org/Yonaba/guard.lua.png)](https://travis-ci.org/Yonaba/guard.lua)
-[![Coverage Status](https://coveralls.io/repos/Yonaba/guard.lua/badge.png?branch=master)](https://coveralls.io/r/Yonaba/guard.lua?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/Yonaba/guard.lua/badge.svg?branch=master)](https://coveralls.io/github/Yonaba/guard.lua?branch=master)
 [![Lua](https://img.shields.io/badge/Lua-5.1%2C%205.2%2C%205.3%2C%20JIT-blue.svg)]()
 [![License](http://img.shields.io/badge/Licence-MIT-brightgreen.svg)](LICENSE)
 
